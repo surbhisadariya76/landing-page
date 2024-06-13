@@ -1,0 +1,53 @@
+.features span{
+    background-color: #DEE2E6;
+    color: #0055FF;
+    padding:0 9px;
+    border-radius: 20px;
+}
+.better-management{
+    font-size: 28.5px;
+    font-weight: 600;
+}
+.start-work{
+    font-size: 14px;
+    font-weight: 400;
+}
+.blue-green{
+    height: 400px;
+    width: 600px;
+    
+}
+.dot-green{
+padding-bottom: 20rem;
+}
+.dot-blue{
+margin-top: 7rem;
+margin-right: 40px;
+}
+.dot-img-set{
+    top:4%;
+    left: 5%;
+  
+}
+.dot-img-set img{
+width: 70%;
+}
+.improve .p1{
+font-size: 17.24px;
+font-weight: 500;
+}
+.improve .p2{
+    font-size: 15px;
+    font-weight: 400;
+}
+.improve a{
+    font-size: 13.5px;
+    font-weight: 400;
+}
+.improve a img{
+    width: 4%;
+}
+
+@media screen and(max-width:1700px) and (min-width:998px) {
+    
+}

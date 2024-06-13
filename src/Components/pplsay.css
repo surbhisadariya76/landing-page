@@ -1,0 +1,62 @@
+.features span{
+    background-color: #DEE2E6;
+    color: #0055FF;
+    padding:0 9px;
+    border-radius: 20px;
+}
+.better-management{
+    font-size: 28.5px;
+    font-weight: 600;
+}
+.start-work{
+    font-size: 14px;
+    font-weight: 400;
+}
+.blue-green-2{
+    height: 400px;
+    width: 600px;
+    
+}
+.dot-green-2{
+padding-right: 32rem;
+}
+.dot-green-3{
+    padding-bottom: 26rem;
+    padding-left: -60rem;
+    }
+.dot-blue-2{
+margin-top: 7rem;
+margin-right: 90px;
+}
+.dot-img-set{
+    top:4%;
+    left: 5%;
+  
+}
+.dot-img-set img{
+width: 70%;
+}
+
+.smart-payroll-icon {
+    background-color: #b3cbe3;
+    width: 48px;
+    height: 48px;
+    border-radius: 2px;
+    
+}
+.smart-payroll-icon img{
+    margin-top: 13px;
+}
+.smart-p1{
+    font-size: 28px;
+    font-weight: 500;
+}
+.smart-p2{
+    font-size: 15px;
+    font-weight: 400;
+}
+.ppl-card{
+    width:"484px";
+    margin-left: 6rem;
+    /* margin-left:5.3rem */
+}

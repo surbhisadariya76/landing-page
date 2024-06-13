@@ -1,0 +1,117 @@
+
+
+@media screen and (max-width:1700px) and (min-width:992px) {
+    .header-container{
+        height: 1000px;
+    }
+    .header-bg{
+        height: 645px;
+        background-image: linear-gradient(#F4F5F7, #FAFAFB);
+    }
+    .best-way{
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 63px;
+        color: #343A40;
+        padding-top: 70px;
+        z-index: 1;
+        left: 25.5%;
+        top: 45%;
+    }
+    .green-outer{
+        padding-top: 180px;
+        display: flex;
+        justify-content: center;
+        padding-left: 70px;
+    }
+    .green-color-box{
+        height: 20px;
+        width: 210px;
+        background-color: rgb(188, 234, 188);
+    }
+    .make-your-sass{
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 27px;
+        margin-top: 10px;
+        color: #8A90A2;
+    }
+    .check-rounded-box{
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .image-main{
+        top:60%;
+      
+       
+    }
+    .image-main img{
+        width: 750px;
+        border: 10px solid white;
+        border-bottom: 17px solid white;
+        border-radius: 7px;
+        box-shadow: 0 8px 22px -10px #343A40;
+    }
+    .play{
+        top:95%;
+    }
+    .play img{
+        width: 4%;
+    }
+}
+
+
+
+@media screen and (max-width:992px) and (min-width:300px) {
+    .header-bg{
+        height: 900px;
+        background-image: linear-gradient(#F4F5F7, #FAFAFB);
+    }
+    .best-way{
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 20px;
+        color: #343A40;
+        z-index: 1;
+        top: 0;
+    }
+    .green-outer{
+        padding-top: 50px;
+        display: flex;
+        justify-content: center;
+        /* padding-left: 70px; */
+    }
+    .green-color-box{
+        height: 20px;
+        width: 210px;
+        background-color: rgb(188, 234, 188);
+    }
+    .make-your-sass{
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 27px;
+        margin-top: 10px;
+        color: #8A90A2;
+    }
+    .check-rounded-box{
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .image-main{
+        top:44%;
+      
+       
+    }
+    .image-main img{
+        /* width: 750px; */
+        border: 10px solid white;
+        border-bottom: 17px solid white;
+        border-radius: 7px;
+    }
+    .play{
+        top:58%;
+    }
+    .play img{
+        width: 10%;
+    }
+}
