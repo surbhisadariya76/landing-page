@@ -1,0 +1,19 @@
+.navbar{
+    height: 100px;
+    /* background-color: blue; */
+}
+.navbar-nav{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.nav-link .active{
+    color:blue
+}
+.download-button{
+    background-color: #FF784B;
+    padding: 6px 36px;
+    border-radius: 4px;
+    color: white;
+    font-size: 1.1rem;
+    display: flex;
+}

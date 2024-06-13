@@ -1,0 +1,23 @@
+.main-smart{
+    height: 22px;
+    width: 100%;
+    background-color: #F4F5F7;
+    transform: rotate(1deg);
+    border-top: 1px solid white;
+}
+.main-smart1{
+    height: 22px;
+    width: 100%;
+    background-color: #F4F5F7;
+    transform: rotate(1deg);
+}
+.main-smart2{
+    height: 22px;
+    width: 100%;
+    background-color: #F4F5F7;
+    transform: rotate(1deg);
+}
+.content-deg{
+    transform: rotate(-1deg);
+    width: 100%;
+}
